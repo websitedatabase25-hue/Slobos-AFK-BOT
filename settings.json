@@ -8,7 +8,7 @@
   "server": {
     "ip": "imperiadale.aternos.me",
     "port": 36626,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
